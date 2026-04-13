@@ -1,0 +1,21 @@
+# Android / Gradle
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+
+# Node / Firebase Functions
+functions/node_modules/
+
+# Secrets and local config
+app/google-services.json
+gradle.properties.local
+
+# Logs and crash dumps
+hs_err_pid*
+*.log
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
