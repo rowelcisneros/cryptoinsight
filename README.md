@@ -2,6 +2,13 @@
 
 Android MVP scaffold implemented from the PRD in `crypto_insight_prd.docx`.
 
+## Legal
+
+- [Privacy Policy](https://rowelcisneros.github.io/cryptoinsight/privacy-policy.html)
+- [Terms and Conditions](https://rowelcisneros.github.io/cryptoinsight/terms-and-conditions.html)
+- [Copyright Notice](./COPYRIGHT.md)
+- [License](./LICENSE.md)
+
 ## Included
 
 - Jetpack Compose single-module Android app
